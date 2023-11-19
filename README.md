@@ -1,5 +1,7 @@
 # Twitter Sentiment Analysis Project  TweetTune
 
+Live Demo: https://tweettune.streamlit.app/
+
 ## Overview
 
 This project focuses on analyzing the sentiments of tweets collected from the social networking website Twitter. The dataset comprises 1,600,000 tweets extracted using the Twitter API. Each tweet is labeled with its sentiment polarity (0 = negative, 2 = neutral, 4 = positive). The goal of the project is to design a classification model that accurately predicts the polarity of tweets.
